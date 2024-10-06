@@ -1,4 +1,4 @@
-import Header from "../app/components/header"
+// import Header from "../app/components/header"
 import Link from "next/link";
 import Image from "next/image"
 import ProfileImage from "../app/public/hand.jpg";

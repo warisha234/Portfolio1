@@ -1,7 +1,6 @@
-import Header from "../components/header"
-import Link from "next/link"
+// import Header from "../components/header"
+// import Link from "next/link"
 import Image from "next/image"
-import Facebook from "../public/facbook.webp"
 import Contactus from "../public/side.webp"
 
 export default function Contact() {
